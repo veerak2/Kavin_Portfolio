@@ -18,3 +18,8 @@
 * Created a twin dataset with the vectorized transcripts and the target variable indicating whether the transcipts are for the same course.
 * Created a siamese LSTM model and used the Manhattan distance to calculate the similarity index.
 
+# [Hunters Green House Price prediction](https://veerak2.github.io/House-price-prediction/HuntersGreenHouseprices.html)
+* Performed feature engineering and exploratory data analysis using Tidyverse(dplyr,ggplot2 etc)
+* Developed multiple models to determine the selling price of a house.
+* Did OLS assumptions test on the best model.
+
