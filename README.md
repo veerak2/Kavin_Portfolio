@@ -16,7 +16,7 @@
 * Consolidated this data and analysed it using R.
 * Built a regression model to identify the important factors.
 
-# [Classifying courses based on transcipts from YouTube (R)](https://github.com/veerak2/LSTM_SiameseNetwork)
+# [Classifying courses based on transcripts from YouTube (Python)](https://github.com/veerak2/LSTM_SiameseNetwork)
 * Collected transcripts from YouTube for video submissions made by students.
 * Removed stop words from these trascripts, tokenized these words and created word embeddings.
 * Trained these words using the gensim model.
