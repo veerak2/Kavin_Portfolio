@@ -1,3 +1,8 @@
+# [Health_Insurance_Analysis (R)](https://veerak2.github.io/Health-Insurance-analysis/docs/Health_Insurance_Analysis)
+* Did an exploratory analysis of health insurance data.
+* Developed multiple regression models like weighted OLS to predict medical expenses.
+* Tested the model for OLS assumptions.
+
 # [Hunters Green House Price prediction (R)](https://veerak2.github.io/House-price-prediction/HuntersGreenHouseprices.html)
 * Performed feature engineering and exploratory data analysis using Tidyverse(dplyr,ggplot2 etc)
 * Developed multiple models to determine the selling price of a house.
