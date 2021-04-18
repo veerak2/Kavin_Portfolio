@@ -3,7 +3,7 @@
 * Developed multiple regression models like weighted OLS to predict medical expenses.
 * Tested the model for OLS assumptions.
 
-# [Hunters Green House Price prediction (R)](https://veerak2.github.io/House-price-prediction/HuntersGreenHouseprices.html)
+# [Hunters Green House Price prediction (R)](https://github.com/veerak2/House-price-prediction)
 * Performed feature engineering and exploratory data analysis using Tidyverse(dplyr,ggplot2 etc)
 * Developed multiple models to determine the selling price of a house.
 * Tested the model to check if it passed the OLS assumptions tests.
