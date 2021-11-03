@@ -15,7 +15,7 @@
 * Used opencv to read these images and assigned weights to these produce.
 * Created a CNN model which accepts weights as auxillary inputs. 
 
-# [Factors influencing Homicides in the United States (R)](https://github.com/veerak2/OLS_Regression/blob/main/Data%20Analytics%20Project%20Paper.pdf)
+# [Factors influencing Homicides in the United States (R)](https://github.com/veerak2/OLS_Regression/blob/main/SDM_final_project.pdf)
 * Collected supplementary homicide data from the Murder accountability project repository.
 * Gathered yearly data for each state from FBI, SAMHSA, ATF, US Census etc for our potential independant variables which can explain the homicides in the US.
 * Consolidated this data and analysed it using R.
